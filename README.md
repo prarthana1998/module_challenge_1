@@ -28,12 +28,9 @@ Follow these steps to set up and run the project locally:
    git clone git@github.com:prarthana1998/module_challenge_1.git 
 
 ## Usage
-![Brand Awarness](./starter/assets/images/brand-awarness.png)
+![Brand Awarness](starter/assets/images/brand-awarness.png)
 
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/].
-
----
-
+Please refer to the LICENSE in the repo.
