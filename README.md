@@ -28,9 +28,9 @@ Follow these steps to set up and run the project locally:
    git clone git@github.com:prarthana1998/module_challenge_1.git 
 
 ## Usage
-![Brand Awarness](starter/assets/images/brand-awarness.png)
+![Brand Awarness](assets/images/brand-awarness.png)
 
 
 ## License
 
-Please refer to the LICENSE in the repo.
+Please refer to the License.text in the repo.
