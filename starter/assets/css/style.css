@@ -4,9 +4,6 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
 /*header*/
 .header {
     padding: 20px;
@@ -24,7 +21,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,24 +29,28 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*anchor tag styles*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*paragraph style*/
 p {
     font-size: 16px;
 }
-
+/*body*/
+body {
+    background-color: #d9dcd6;
+}
+/*hero image styles*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* float classes for images */
 .float-left {
     float: left;
     margin-right: 25px;
